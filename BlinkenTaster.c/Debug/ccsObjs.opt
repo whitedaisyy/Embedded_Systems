@@ -1,0 +1,4 @@
+"./msp430fr235x_P1_01.obj"
+"../lnk_msp430fr2355.cmd"
+-lfrwp_init.a
+-llibc.a
